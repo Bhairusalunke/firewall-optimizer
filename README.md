@@ -2,6 +2,7 @@
 
 A comprehensive Python-based tool that analyzes Linux `iptables` firewall rules, detects redundant or conflicting rules, suggests optimization strategies, and provides interactive visualizations with beautiful CLI graphics for better security management.
 
+### DUE TO DEPENDECY ISSUESS AND VERSION ISSUES THIS PROJECT IS DEPLOYED VIA MY FRIENDS GITHUB CREATED BY AKSHAY KALE
 ## 🎯 Features
 
 ### 🔍 **Analysis Capabilities**
